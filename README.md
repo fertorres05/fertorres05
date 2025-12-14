@@ -94,6 +94,5 @@ Aplicación Android desarrollada con **Kotlin y Jetpack Compose**, integrada con
 ---
 
 ## Contacto
-- 📧 Email: fernandotorresserra05@gmail.com
-- 💼 LinkedIn: [fernando-vicent-torres-serra](https://linkedin.com/in/fernando-vicent-torres-serra-31690a309)
-- 🧑‍💻 GitHub: [@fertorres05](https://github.com/fertorres05)
+- Email: fernandotorresserra05@gmail.com
+- LinkedIn: [fernando-vicent-torres-serra](https://linkedin.com/in/fernando-vicent-torres-serra-31690a309)
